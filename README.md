@@ -1,2 +1,3 @@
-# linkedListLibrary
-Linked list library implementation.
+# linked-list-library
+
+Linked list library in C.
